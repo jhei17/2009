@@ -1,0 +1,71 @@
+criaCartao(
+    'Livros',
+    'Qual foi o primeiro livro ecito pela Ali Hazelwood?',
+    'A Hipótese do amor'
+)
+
+criaCartao(
+    'Livro',
+    'Qual o livro mai famoo da Ali Hazelwood?',
+    'A hipótese do amor'
+)
+
+criaCartao(
+    'Livro',
+    'Quais são os personagens do livo A hipótese do amor?',
+    'Olive Smith e Adam Carlsen'
+)
+
+criaCartao(
+    'livros',
+    'Qual foi o último livro que ela escreveu?',
+    'Um amor problemáico de verão'
+)
+
+criaCartao(
+    'Livros',
+    'Em que ano foi lançado o livro A razão do amor?',
+    '23 de agosto de 2022'
+)
+
+criaCartao(
+    'Livros',
+    'Antes de se tornar uma autora publicada, o que ela escrevia?',
+    'Escrevia fanfics de Star Wars'
+)
+
+criaCartao(
+    'Livros,
+    'Qual o maior destaque dos livros dela?',
+    'Ela destaca mulheres em áreas de ciências, tecnologia, engenharia e matemática'
+)
+
+criaCartao(
+    'Livros',
+    'Em que área Ali Hazelwood é formada?',
+    'É formada em neurociência cognitiva'
+)
+
+criaCartao(
+    'Livos',
+    'Qual livro irá ganhar uma continuação?',
+    'a noiva'
+)
+
+criaCartao(
+    'Livros',
+    'Qual é a idade de Ali Hazelwood?',
+    'Ela tem 35 anos'
+)
+
+criaCartao(
+    'Livros',
+    'Quem inspirou Adam Carlsen?',
+    'Adam Driver'
+)
+
+criaCartao(
+    'Livros',
+    'Quantos livros Ali Hazelwood tem ao todo?',
+    '30 livro'
+)
