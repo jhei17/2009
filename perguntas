@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Livro',
+    'Livros',
     'Qual o livro mai famoo da Ali Hazelwood?',
     'A hipótese do amor'
 )
 
 criaCartao(
-    'Livro',
+    'Livros',
     'Quais são os personagens do livo A hipótese do amor?',
     'Olive Smith e Adam Carlsen'
 )
 
 criaCartao(
-    'livros',
+    'Livros',
     'Qual foi o último livro que ela escreveu?',
     'Um amor problemáico de verão'
 )
@@ -35,7 +35,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Livros,
+    'Livros',
     'Qual o maior destaque dos livros dela?',
     'Ela destaca mulheres em áreas de ciências, tecnologia, engenharia e matemática'
 )
@@ -47,7 +47,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Livos',
+    'Livros',
     'Qual livro irá ganhar uma continuação?',
     'a noiva'
 )
