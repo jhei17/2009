@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Livros',
-    'Qual o livro mai famoo da Ali Hazelwood?',
+    'Qual o livro mais famoso da Ali Hazelwood?',
     'A hipótese do amor'
 )
 
